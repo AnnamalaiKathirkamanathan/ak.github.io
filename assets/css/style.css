@@ -114,7 +114,9 @@ h1, h2, h3, h4, h5, h6 {
 
 @media (max-width: 992px) {
   #header h1 {
-    font-size: 36px;
+    font-size: 28px;
+    /*font-size: 36px;*/
+    /*padding: 0px;*/
   }
   #header h2 {
     font-size: 20px;
@@ -354,7 +356,8 @@ section .container {
   height: 1px;
   display: inline-block;
   background: #4ceb95;
-  margin: 4px 10px;
+  margin: 4px 5px;
+  /*margin: 4px 10px;*/
 }
 
 .section-title p {
